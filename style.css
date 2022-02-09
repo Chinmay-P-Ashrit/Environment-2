@@ -1,0 +1,33 @@
+#container{
+    size: -100px;
+}
+#logo{
+    size: -100px;
+    width: 100;
+}
+div {
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+img{
+    height:75%;
+    display: inline;
+}
+#heading {
+    color: darkgreen;
+    margin-top: 10px;
+}
+div:hover{
+   background-color:lightgreen;
+}
+div:active{
+    background-color: darkgreen;
+}
+*{
+    text-align: center;
+}
